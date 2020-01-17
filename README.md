@@ -16,9 +16,6 @@ Ime: <ime_studenta>
 Prezime: <prezime_studenta>
 Sifra zad: <sifra_zadatka>
 
-Predmetni projekat - faza 1 sačuvati pod nazivom: PF1S13.2. Obrisati poddirektorijume bin i obj. Zadaci se brane na vežbama, pred asistentima.
-Vreme za izradu predmetnog projekta – faze 1 su dve nedelje. Predmetni projekat – faza 1 vredi 15 bodova. Način bodovanja je prikazan u tabeli.
-
 
 Definisanje materijala, osvetljenja, tekstura, interakcije i kamere u 3D sceni  (druga faza):
 
@@ -42,7 +39,6 @@ U trenutku kada se otvori, bure kreće da se kotrlja niz padinu koja se nalazi n
 	U toku animacije, onemogućiti interakciju sa korisnikom (pomoću kontrola korisničkog interfejsa i tastera). Animacija se može izvršiti proizvoljan broj puta i pokreće se pritiskom na taster C. 
 
 
-Neophodne teksture pronaći na Internetu.Predmetni projekat - faza 2 sačuvati pod nazivom: PF2S13.2. Obrisati poddirektorijume bin i obj. Zadaci se brane na vežbama, pred asistentima.
-Vreme za izradu predmetnog projekta – faze 2 su četiri nedelje. Predmetni projekat – faza 2 vredi 35 bodova. Način bodovanja je prikazan u tabeli.
+Neophodne teksture pronaći na Internetu.
  
 
