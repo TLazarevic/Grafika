@@ -1,0 +1,39 @@
+﻿<Window x:Class="AssimpSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SharpGL WPF Application" Height="500" Width="600" 
+        xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" KeyDown="Window_KeyDown" >
+    <Grid >
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar HorizontalAlignment="Center" VerticalAlignment="Center"  Height="45" Margin="0,0,-137,0" Width="592">
+
+                <Label Content="Faktor skaliranja:" VerticalContentAlignment="Center" Width="100"></Label>
+                <TextBox Name="skaliranje"  Height="24" TextWrapping="Wrap" BorderThickness="1" BorderBrush="Black" VerticalContentAlignment="Center"  Width="30" KeyDown="skaliranje_KeyDown" Margin="0,0,0,8" VerticalAlignment="Bottom"  />
+
+                <Label Content="Boja izvora:" VerticalContentAlignment="Center" Width="70"></Label>
+                <Label Content="R" VerticalContentAlignment="Center" Width="20"></Label>
+                <TextBox Name="bojaR"  Height="25" TextWrapping="Wrap" BorderThickness="1" BorderBrush="Black" VerticalContentAlignment="Center" Width="30" KeyDown="bojaR_KeyDown" />
+                <Label Content="G" VerticalContentAlignment="Center" Width="20"></Label>
+                <TextBox Name="bojaG"  Height="25" TextWrapping="Wrap" BorderThickness="1" BorderBrush="Black" VerticalContentAlignment="Center" Width="30" KeyDown="bojaG_KeyDown"/>
+                <Label Content="B" VerticalContentAlignment="Center" Width="20"></Label>
+                <TextBox Name="bojaB"  Height="25" TextWrapping="Wrap" BorderThickness="1" BorderBrush="Black" VerticalContentAlignment="Center" Width="30" KeyDown="bojaB_KeyDown"/>
+
+                <Label Content="Pomeranje izvora:" VerticalContentAlignment="Center" Width="102" ></Label>
+                <DockPanel Height="40" Width="100">
+                    <TextBox Name="Pomeraj"  Height="25" TextWrapping="Wrap" BorderThickness="1" BorderBrush="Black" VerticalContentAlignment="Center" Width="30" KeyDown="Pomeraj_KeyDown" />
+                    <Button Width="25" Height="25" VerticalContentAlignment="Center" Click="Button_Click" Margin="10,0,0,0">+</Button>
+                    <Button Width="25" Height="25" VerticalContentAlignment="Center" Click="Button_Click_1" >-</Button>
+                </DockPanel>
+
+
+            </ToolBar>
+        </ToolBarTray>
+
+        <!-- The OpenGL control provides a OpenGL drawing surface. -->
+        <sharpGL:OpenGLControl 
+            Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
+            OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
+            DrawFPS="True" RenderContextType="FBO" FrameRate="10" Margin="0,45,0,0"/>
+
+    </Grid>
+</Window>

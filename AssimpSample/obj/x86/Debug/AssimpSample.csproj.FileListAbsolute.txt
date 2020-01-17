@@ -1,0 +1,75 @@
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\Assimp32.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\Assimp64.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\3D Models\Wooden Barrel\Wooden Barrel.3ds
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\3D Models\Wooden Barrel\Wooden Barrel.mtl
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\3D Models\Wooden Barrel\Wooden Barrel.obj
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\Assimp32.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\Assimp64.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\3D Models\Wooden Barrel\Wooden Barrel.3ds
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\3D Models\Wooden Barrel\Wooden Barrel.mtl
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\3D Models\Wooden Barrel\Wooden Barrel.obj
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\DELL\Documents\Tamara faks\grafika\RG-E2 Vezbe 4\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\Assimp32.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\Assimp64.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\DELL\Documents\Tamara faks\grafika\PF1S13.2\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
